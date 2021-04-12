@@ -1,6 +1,9 @@
 # macOS Files
 .DS_Store
 
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+
 # training checkpoint files
 training*/
 checkpoints_*/
