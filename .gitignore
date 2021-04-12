@@ -1,0 +1,6 @@
+# macOS Files
+.DS_Store
+
+# training checkpoint files
+training*/
+checkpoints_*/
