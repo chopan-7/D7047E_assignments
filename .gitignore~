@@ -12,8 +12,4 @@ checkpoints_*/
 *.index*
 *.data*
 checkpoint
-state_dicts/
-
-# pdfs
-*.pdf
-*.PDF
+state_dict/
