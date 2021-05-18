@@ -1,0 +1,60 @@
+# Task 2:
+# Use the trained Char-RNN model and report 3 generated sequences of length
+# 100 by priming the model with random characters.
+# 
+
+Prime string: "bg09Z"
+Predicted string: 
+"bg09Zl okst oat io whith hoo ttr shtt thtrTe smfesilso th'. aasgathlae ccitd
+tvthuritieirhiy te lhrlgeara"
+
+Prime string: "2 b3n" 
+"2 b3nv. ebtaeto arElCA Iwfed is tatme a n th
+E
+
+IN:ano hog dus fthan, arir lo iutheat mt oerd, os nenlrle"
+
+Prime string: "kf2DD"
+"kf2DDolrc boith aerrrrscshESN hoorarestin ssl ereu is bwarAd tcivae bid hool
+HOAy he, mbhiwan ro msola eo"
+
+
+# Task 3:
+# Generate character sequence of length 100 for the following priming
+# sequences:
+# - The
+# - What is
+# - Shall I give
+# - X087hNYB BHN BYFVuhsdbs
+
+
+Prime string: "The"
+"Thees tosv
+Ed fa,u waer ane awtho anoe tcan t beioeriehcthad Iuveg wecaee tn wwae tmhTed
+lifre tae y o"
+
+Prime string: "What is"
+"What isthe awsn e.N
+S,oO hofle is
+Es mily,
+
+Ul
+i
+y mohpe oret'
+O
+I
+W wes es:o oato wal o as sorn
+has arc l"
+
+Prime string: "Shall I give"
+"Shall I giveat ere hlaaas anlan'rgh mor tn m
+HAys or aers y har,NGuecpf switn aluroalt asts tnre oclce achiursd"
+
+Prime string: "X087hNYB BHN BYFVuhsdbs"
+"X087hNYB BHN BYFVuhsdbs btnird
+A
+AURO
+or, astht wthn aare Oogh fo at oasn
+OAbt warto kocere e sathasec tho,  hver tmtt t;
+o"
+
